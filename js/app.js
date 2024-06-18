@@ -11,7 +11,10 @@ let quantidade = document.getElementById('quantidade').value;
 
 let preco = quantidade * valorUnitario;
 
-
+let carrinho = document.getElementById('lista-produtos');
+carrinho.innerHTML += `<section class="carrinho__produtos__produto">
+          <span class="texto-azul">${quantidade}</span> ${nomeProduto} <span class="texto-azul">R$${preco}</span>
+        </section>`;
 //alert(preco);
 
 }
