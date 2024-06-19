@@ -19,7 +19,7 @@ Este é um projeto de um site de carrinho de compras onde o usuário pode seleci
 -  Cálculo = O programa soma todos os valores dos itens no carrinho e apresenta o total;
 
 ## Como Executar
-1. Acesso ao site: [Clique Aqui]();
+1. Acesso ao site: [Clique Aqui](https://rafaelmainieri.github.io/carrinho-compras/);
 2. O usuário deve selecionar o item desejado para adicionar ao carrinho e a quantidade do mesmo;
 3. O usuário irá clicar no botão "Adicionar";
 4. Caso esteja insatisfeito, basta clicar no botão "Limpar" que o carrinho será limpo;
